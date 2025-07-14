@@ -1,0 +1,18 @@
+.gurt{
+    height:110px;
+    background-color:rgb(255, 186, 12);
+}
+
+.yo{
+    height:calc(100vh - 80px);
+    background-image:url(https://inwfile.com/s-gg/8zac0u.jpg)
+
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+.goon{
+    height:80px;
+}
+
